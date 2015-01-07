@@ -9,3 +9,6 @@ This repository contains codes I've written for some of these sessions.
 The aim of this session is to create sound/noise from image files. I created a simple Java program that reads RGB values of image files and store them in a 2D array. These values can then be used to create sound/noise however you want (you'll have to code it yourself). 
 
 I did mine by dividing R/G/B and store them as a row vector, and have MATLAB play it. You can find a picture of Bletchley Park, and its corresponding sound wave in my repo. It's really just noise rather than sound. 
+
+![ScreenShot](https://raw.githubusercontent.com/EmilT/RHGeekOut/master/RHGeekOut/sample.jpg)
+![ScreenShot](https://raw.githubusercontent.com/EmilT/RHGeekOut/master/RHGeekOut/soundwave.png)
